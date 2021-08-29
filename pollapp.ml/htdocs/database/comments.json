@@ -1,0 +1,29 @@
+[
+    {
+        "title": "How is life?",
+        "date": "Friday, August 27, 2021",
+        "options": [
+            {
+                "name": "Option 1",
+                "votes": 10
+            },
+            {
+                "name": "Option 2",
+                "votes": 2
+            },
+            {
+                "name": "Option 3",
+                "votes": 1
+            },
+            {
+                "name": "Option 4",
+                "votes": 4
+            },
+            {
+                "name": "Option 5",
+                "votes": 2
+            }
+        ],
+        "votes": 2
+    }
+]
